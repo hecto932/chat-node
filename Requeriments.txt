@@ -1,0 +1,22 @@
+CHAT in node.js
+
+1. Desarrollar la interfaz tomando como referencia whatsapp
+  1.1 / Ver al lado izquierdo la lista de conversaciones en curso, incluso grupos(para despues).
+  1.2 / Poder buscar la conversacion basado en el nombre del usuario, pero tambien en el contenido de la conversacion.
+  1.3 / Enviar mensajes y recibir mensajes (Websockets) 
+  1.4 / Grabar y enviar mensajes de voz
+  1.5 / Enviar imagenes y gifs
+  1.6 / Enviar mi ubicacion.
+
+2. Desarrolar un servidor que permita lo siguiente:
+  2.1 / Crear una base de datos que permita guardar los contactos y los mensajes
+  2.2 / CRD de los mensajes. Cuando decimos crear, decimos enviar.
+  2.2 / CRD de los contacto.
+  2.3 / Crear un sistema de autenticacion que permita iniciar sesion con google o usuario/contrasena.
+
+UI Referencias
+
+1. https://1.envato.market/c/97450/275988/4415?subId1=bashooka&u=https://themeforest.net/item/fuse-angularjs-material-design-admin-template/12931855
+
+
+Postgres / MongoDB
